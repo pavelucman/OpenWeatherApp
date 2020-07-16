@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather application</string>
+
+    <string name="humidity">Humidity:</string>
+    <string name="description">Description:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="city_name">City name</string>
+
+</resources>

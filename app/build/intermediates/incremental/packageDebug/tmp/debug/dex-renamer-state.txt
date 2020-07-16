@@ -1,0 +1,4 @@
+#Thu Jul 16 12:42:36 CEST 2020
+base.0=/Users/pavelucman/Documents/Projects/WeatherApp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
